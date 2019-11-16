@@ -4,3 +4,4 @@ hello
 hello git
 hello test
 read me
+test new
